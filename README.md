@@ -1,7 +1,8 @@
-enumcannon
+<h1>Enumcannon</h1>
 
 A script that you can run in the background!
-Summary
+
+<h2>Summary</h2>
 
 I have created this script as I was preparing for my first attempt OSCP exam when I was tasked by my mentor toe automate the enumation process.
 
