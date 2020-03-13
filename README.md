@@ -19,7 +19,7 @@ Features:
     Recon:	Runs "Basic" scan "if not yet run", then suggests recon commands "i.e. gobuster, nikto, smbmap" based on the found ports, then prompts to automatically run them
     Complete: Runs all the scans consecutively (~20-30 minutes)
 
-I barrowed the concept from @21y4d,@Tib3rius,@jmortega,and @leebaird, so thank you guys
+I barrowed the concept from <a href="https://github.com/21y4d/nmapAutomator">21y4d (nmapAutomator)</a>,<a href="https://github.com/Tib3rius/AutoRecon">Tib3rius (AutoRecon)</a>,<a href="https://github.com/jmortega/europython_ethical_hacking">jmortega (europython_ethical_hacking)</a>,and <a href="https://github.com/leebaird">leebaird(discover.sh)</a>, so thank you guys
 
 Feel free to send your pull requests and contributions :)
 Requirements:
